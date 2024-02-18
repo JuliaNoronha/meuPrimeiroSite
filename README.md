@@ -17,4 +17,4 @@ Abra o arquivo index.html em seu navegador da web.
 ## Contribuição
 Este projeto é pessoal e não aceita contribuições externas.
 
-⚠️ Esse projeto está em construção! ⚠️
+⚠️ Este projeto está em construção! ⚠️
